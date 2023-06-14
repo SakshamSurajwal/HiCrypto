@@ -1,0 +1,32 @@
+.content{
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 70px;
+}
+.chart{
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 35px;
+    background-color:gold;
+}
+.rank,.coin_heading{
+    margin-bottom:2%;
+}
+#sym{
+    font-size: 10px;
+}
+.rank{
+    color: gold;
+}
+
+
+@media only screen and (max-width:600px){
+    .content{
+        padding-left: 2.5%;
+        padding-right: 2.5%
+    }
+    .chart{
+        padding-left: 2.5%;
+        padding-right: 2.5%
+    }
+    }
